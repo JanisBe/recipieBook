@@ -8,7 +8,12 @@ import {Component, OnInit} from '@angular/core';
 export class AppComponent implements OnInit  {
   title = 'recipieBook';
 
+  loadedFeature = 'recipe';
   constructor() {};
 
   ngOnInit(): void {};
+
+  onNavigate(feature: string) {
+    this.loadedFeature = feature;
+  }
 }
