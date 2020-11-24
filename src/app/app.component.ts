@@ -29,6 +29,7 @@ export class AppComponent implements OnInit {
         counter++;
       });
   };
+  //zmiana na feat
   // 00:20 #10 - of/from
   // 03:01 #9 - Map/Tap
   // 05:48 #8 - Share
