@@ -29,6 +29,16 @@ export class AppComponent implements OnInit {
         counter++;
       });
   };
+  // 00:20 #10 - of/from
+  // 03:01 #9 - Map/Tap
+  // 05:48 #8 - Share
+  // 08:26 #7 - SwitchMap
+  // 11:24 #6 - Debounce Time
+  // 13:42 #5 - Distinct until changed
+  // 14:50 #4 - Take, TakeUntil, TakeWhile, TakeLast
+  // 19:56 #3 - MergeMap/FlatMap
+  // 22:12 #2 - Concat
+  // 23:43 #1 - ForkJoin
 
   ngOnInit(): void {
   };
